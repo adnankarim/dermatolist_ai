@@ -13,6 +13,7 @@ To get started with this project, you will need to clone the repository and crea
 ```bash
 git clone https://github.com/adnankarim/dermatologist-ai.git
 mkdir data; cd data
+```
 ### Prerequisites
 
 * Python 3.
